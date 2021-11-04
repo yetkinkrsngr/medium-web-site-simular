@@ -1,0 +1,12 @@
+body {
+  font-family: "Roboto Slab", serif;
+}
+.bg-yellow {
+  background-color: #ffc017;
+}
+.bg-bottom-dark {
+  border-bottom: 1px solid rgba(41, 41, 41, 1);
+}
+.aside-buttom > li {
+  margin-bottom: 10px;
+}
